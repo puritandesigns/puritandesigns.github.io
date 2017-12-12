@@ -1,4 +1,7 @@
 puritandesigns.github.io
 ========================
 
-The pet project of Michael Kelly, Christian, Husband, Father and Web Developer.
+The side projects of Michael Kelly:
+
+- Threadless designs (https://puritandesigns.threadless.com)
+- More to come... eventually....
